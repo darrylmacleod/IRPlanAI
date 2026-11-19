@@ -48,16 +48,7 @@ Set your severity targets and pre-authorized shutdown rules ahead of time, not d
 Run a tabletop exercise on at least one scenario from section 10.
 Regulatory references
 
-The notification clocks in the template were checked against primary sources on November 19, 2026. They include:
-
-OSFI Technology and Cyber Security Incident Reporting Advisory (federally regulated financial institutions): within 24 hours, or sooner if possible
-PIPEDA, Breach of Security Safeguards Regulations: as soon as feasible where there's a real risk of significant harm; keep breach records for 24 months
-Quebec Law 25: notify promptly where there's a risk of serious injury; keep a register of incidents
-Privacy Act / TBS Policy on Privacy Protection (federal institutions): no later than 7 days after a breach is determined to be material
-Bill C-8, Critical Cyber Systems Protection Act (Royal Assent June 15, 2026): a period set by regulation, no more than 72 hours; coming into force in phases
-GDPR, Art. 33: within 72 hours where feasible
-EU AI Act, Art. 73: serious-incident reporting for high-risk AI systems, which now apply from December 2, 2027 (Annex III) under the Digital Omnibus
-Related: OSFI Guideline E-23 (effective May 1, 2027), the TBS Directive on Automated Decision-Making, NIST IR 8596 (Cyber AI Profile, draft), CISA BOD 26-04, and the OWASP Top 10 for Agentic Applications
+The notification clocks in the template were checked against primary sources on November 19, 2026. 
 
 Regulations change. Check every clock with your legal counsel before you rely on it.
 

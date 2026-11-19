@@ -11,16 +11,20 @@ Your incident response plan assumes something breaks and an alarm fires. AI does
 The talk covers:
 
 Five failure modes specific to AI: silent failure, model drift, attacks on the AI itself (prompt injection, data poisoning, tool hijack), harm in the outputs, and shadow AI leakage.
+
 Attacks from outside: AI used as the attacker's weapon, your AI stack (GPU clusters, agent builders, model keys) as the target, why most IR plans miss both, and why that's about to change.
+
 Two incidents that are easy to miss: an agent hijacked through a support ticket, and biased automated decisions.
+
 What the plan has to add: severity tiers, roles, a six-phase lifecycle, evidence, and controlled recovery.
 
 The bottom line: you don't replace your IR plan, you extend it. It has to run at machine speed and cover your AI systems.
 
 What's in this repo
 File	What it is
-IR_Plan_AI_Gap.pdf	The slide deck as presented (25-minute slot, 26 slides).
-AI Incident Response Plan Template.docx	The AI incident response plan template that goes with the talk. Fill it in and adapt it to your organization.
+IR_Plan_AI_Gap.pdf- The slide deck as presented (25-minute slot, 26 slides).
+AI Incident Response Plan Template.docx	- The AI incident response plan template that goes with the talk. Fill it in and adapt it to your organization.
+
 Using the template
 
 The template extends your existing incident response plan. It doesn't replace it. Each section matches a part of the talk:
@@ -37,7 +41,10 @@ Section	Covers
 9. Controlled recovery	Shadow mode, close monitoring, human oversight, and the Risk Committee sign-off gate
 10. Scenario playbooks	Agent hijack, biased decisions, shadow AI leak, AI stack compromise and LLMjacking, AI-accelerated intrusion
 11. Gap self-assessment	For each category: what tells us it's happening, who owns it, and how we get back
-Appendices	Incident record form, related instruments, sources
+
+Appendices	
+
+Incident record form, related instruments, sources
 
 Getting started:
 
@@ -46,6 +53,7 @@ Fill in the AI system inventory (section 2) first. If a system isn't listed, it 
 Use the gap self-assessment (section 11) to check your current plan against the seven categories.
 Set your severity targets and pre-authorized shutdown rules ahead of time, not during an incident.
 Run a tabletop exercise on at least one scenario from section 10.
+
 Regulatory references
 
 The notification clocks in the template were checked against primary sources on November 19, 2026. 

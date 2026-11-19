@@ -2,7 +2,7 @@
 
 Slides and a fill-in AI incident response plan template from my talk at BSides Ottawa 2026 (November 19–20, 2026).
 
-Speaker: Darryl MacLeod, vCISO at Kobalt.io
+Speaker: Darryl MacLeod, vCISO at Kobalt.io | darryl.macleod@kobalt.io
 
 About the talk
 

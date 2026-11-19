@@ -21,8 +21,9 @@ What the plan has to add: severity tiers, roles, a six-phase lifecycle, evidence
 The bottom line: you don't replace your IR plan, you extend it. It has to run at machine speed and cover your AI systems.
 
 What's in this repo
-File	What it is
+
 IR_Plan_AI_Gap.pdf- The slide deck as presented (25-minute slot, 26 slides).
+
 AI Incident Response Plan Template.docx	- The AI incident response plan template that goes with the talk. Fill it in and adapt it to your organization.
 
 Using the template
